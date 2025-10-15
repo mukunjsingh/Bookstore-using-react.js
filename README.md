@@ -96,7 +96,7 @@ Creating responsive layouts with Tailwind CSS utility classes
 To run this project locally:
 
 # Clone the repository
-git clone https://github.com/yourusername/book-store.git
+https://github.com/mukunjsingh/Bookstore-using-react.js
 
 # Navigate to the folder
 cd book-store
